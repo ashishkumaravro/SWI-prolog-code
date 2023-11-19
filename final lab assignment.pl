@@ -4,7 +4,7 @@ female(pat).
 female(ann).
 
 male(jim).
-male(jim).
+male(bob).
 male(tom).
 male(peter).
 
